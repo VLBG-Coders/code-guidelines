@@ -2,7 +2,7 @@
 
 ## 1 Description
 
-This project should help developers of all levels to improve their code. The main goal is to agree in some of basic design patterns and code styling to make it easier to share code or work together in a team.
+This project should help developers of all skill levels to improve their code. The main goal is to agree on some of basic design patterns and code styling conventions to make it easier to share code or work together in a team.
 
 ## 2 Code guidelines
 
